@@ -1,0 +1,2 @@
+# Make sure an compiliations aren't tracked
+src/src-tauri/target/
